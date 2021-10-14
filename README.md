@@ -7,7 +7,7 @@
 
 - :office: &nbsp;I'm currently working at **sMedia.ca**
 - :seedling: &nbsp;I’m currently learning **Data Structures**
-- :speech_balloon: &nbsp;I like to talk about **Linux** and **Open Source**
+- :speech_balloon: &nbsp;I like to talk about **Linux** and **Open Source** in genaral
 - :home: &nbsp;I am currently living in Dhaka, Bangladesh.
 - :education: &nbsp;Although I am an electrical engineer by education, I am a computer science engineer by heart!
 
