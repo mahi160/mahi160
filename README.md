@@ -5,8 +5,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mahi160&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true" alt="Salauddin Omar Sifat" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **sMedia.ca**
-- :seedling: &nbsp;I’m currently learning **Data Structures**
+- :office: &nbsp;I'm currently working at **sMedia Ventures**
+- :seedling: &nbsp;I’m currently building a full stack dashboard
 - :speech_balloon: &nbsp;I like to talk about **Linux** and **Open Source** in genaral
 - :home: &nbsp;I am currently living in Dhaka, Bangladesh.
 - :education: &nbsp;Although I am an electrical engineer by education, I am a computer science engineer by heart!
