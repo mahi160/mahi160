@@ -2,14 +2,14 @@
   <img src="https://komarev.com/ghpvc/?username=mahi160&label=Profile%20views&color=0e75b6&style=flat" alt="mahi160" /> 
 </p> 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahi160&show_icons=true&locale=en&theme=vue" alt="mahi160" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahi160&show_icons=true&locale=en&theme=calm" alt="mahi160" />
 </p>
 <h1 align="center">Hi 👋, I'm Sifat</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
 <p align="right">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahi160&show_icons=true&locale=en&layout=default&theme=vue" alt="mahi160" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahi160&show_icons=true&locale=en&layout=default&theme=calm" alt="mahi160" />
   <br/>
   <!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mahi160&theme=calm&layout=compact" alt="mahi160" /> -->
 </p>
@@ -37,12 +37,15 @@
 <br/>
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img 
-  align="center" src="https://github-profile-trophy.vercel.app/?username=mahi160" alt="mahi160" /></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=mahi160&theme=nord" alt="mahi160" />
+  </a> 
 </p>
 
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahi160&show_icons=true&locale=en&layout=default&theme=calm" alt="mahi160" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=mahi160&theme=calm" alt="mahi160" />
   <br/>
+
+
   <!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mahi160&theme=calm&layout=compact" alt="mahi160" /> -->
 </p>
