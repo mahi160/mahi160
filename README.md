@@ -1,7 +1,7 @@
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=mahi160&label=Profile%20views&color=0e75b6&style=flat" alt="mahi160" /> 
 </p> 
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahi160&show_icons=true&locale=en&theme=calm" alt="mahi160" />
 </p>
 <h1 align="center">Hi 👋, I'm Sifat</h1>
@@ -42,8 +42,8 @@
   </a> 
 </p>
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=mahi160&theme=calm" alt="mahi160" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mahi160&theme=calm" alt="mahi160" />
   <br/>
 
 
