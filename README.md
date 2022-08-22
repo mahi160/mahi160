@@ -5,11 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahi160" alt="mahi160" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/mahi160" target="blank"><img src="https://img.shields.io/twitter/follow/mahi160?logo=twitter&style=for-the-badge" alt="mahi160" /></a> </p>
+
+
+- :office: I'm currently working at **sMedia Ventures**
+- 
 - 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **Javascript, Angular**
 
 - 📫 How to reach me **omarsifat288@gmail.com**
+
+- :home: I am currently living in Dhaka, Bangladesh.
+  
+- :education: Although I am an electrical engineer by education, I am a computer science engineer by heart!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -128,4 +137,4 @@
 </table>
 <!-- links -->
 
-[linkedin]: https://www.linkedin.com/in/mahi "Salauddin Omar Sifat" -->
+<!-- [linkedin]: https://www.linkedin.com/in/salauddin-omar-sifat-8a2303169/ "Salauddin Omar Sifat" --> -->
