@@ -36,7 +36,7 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="left" src="https://github-profile-trophy.vercel.app/?username=mahi160&&column=3&margin-w=15&margin-h=15" alt="mahi160" />
+    <img align="left" src="https://github-profile-trophy.vercel.app/?username=mahi160&&column=3&margin-w=10&margin-h=10" alt="mahi160" />
   </a> 
 </p>
 
