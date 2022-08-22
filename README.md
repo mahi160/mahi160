@@ -34,7 +34,7 @@
 
 <br/>
 
-<p align="left"> 
+<p align="left" style="display:flex"> 
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=mahi160&&column=3&margin-w=4&margin-h=4" alt="mahi160" /> 
   <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=mahi160&theme=calm" alt="mahi160" />
 </p>
