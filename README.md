@@ -7,7 +7,6 @@
 <h1 align="center">Hi 👋, I'm Sifat</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-
 <p align="right">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahi160&show_icons=true&locale=en&layout=default&theme=calm" alt="mahi160" />
   <br/>
@@ -16,7 +15,6 @@
 <!-- <p align="left"> <a href="https://twitter.com/mahi160" target="blank"><img src="https://img.shields.io/twitter/follow/mahi160?logo=twitter&style=for-the-badge" alt="mahi160" /></a> </p> -->
 
 <br/>
-
 
 - 🏢 Working at **sMedia Ventures**
 - 🌱 I’m currently learning **Rust**
@@ -45,7 +43,6 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mahi160&theme=calm" alt="mahi160" />
   <br/>
-
 
   <!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mahi160&theme=calm&layout=compact" alt="mahi160" /> -->
 </p>
