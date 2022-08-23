@@ -1,5 +1,5 @@
 <p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=mahi160&label=Profile%20views&color=0e75b6&style=flat" alt="mahi160" /> 
+  <img src="https://komarev.com/ghpvc/?username=mahi160&label=Profile%20views&color=edae49&style=flat" alt="mahi160" /> 
   <a href="https://wakatime.com/@88e59008-5816-4f84-8871-f678c33d1ae3"><img src="https://wakatime.com/badge/user/88e59008-5816-4f84-8871-f678c33d1ae3.svg" alt="Total time coded since Mar 29 2020" /></a>
 </p> 
 <p align="center">
@@ -41,7 +41,7 @@
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=mahi160&&column=3&margin-w=4&margin-h=4" alt="mahi160" /> 
 </td>
 <td>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=mahi160&theme=calm" alt="mahi160" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=88e59008-5816-4f84-8871-f678c33d1ae3&theme=calm&v=2" alt="mahi160" />
 </td>
 </table>
 </p>
