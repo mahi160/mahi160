@@ -21,7 +21,7 @@
 - 💬 Ask me about **Javascript, Angular**
 - 📫 How to reach me **omarsifat288@gmail.com**
 - 🏠 Currently living in Dhaka, Bangladesh.
-- 🎓 Graduated from **BUET** as **EEE** major.But I am a computer science engineer by heart!
+- 🎓 Graduated from **BUET** as **EEE** major. But I am a computer science engineer by heart!
 
 <br/>
 <br/>
