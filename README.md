@@ -26,7 +26,7 @@
 <br/>
 
 - 🏢 Working at **sMedia Ventures**
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust**, **SvelteKit**
 - 💬 Ask me about **Javascript, Angular**
 - 📫 How to reach me **omarsifat288@gmail.com**
 - 🏠 Currently living in Dhaka, Bangladesh.
