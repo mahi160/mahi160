@@ -1,6 +1,6 @@
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=mahi160&label=Profile%20views&color=edae49&style=flat" alt="mahi160" /> 
-  <a href="https://wakatime.com/@88e59008-5816-4f84-8871-f678c33d1ae3"><img src="https://wakatime.com/badge/user/88e59008-5816-4f84-8871-f678c33d1ae3.svg" alt="Total time coded since Mar 29 2020" /></a>
+  <a href="https://wakatime.com/@88e59008-5816-4f84-8871-f678c33d1ae3"><img src="https://wakatime.com/badge/user/mahi160.svg" alt="Total time coded since Mar 29 2020" /></a>
 </p> 
 
 <p align="left" style="display:flex"> 
