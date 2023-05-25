@@ -9,9 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahi160&show_icons=true&locale=en&theme=calm" alt="mahi160" />
 </td>
 <td>
- 
-  <img align="right" src=" https://github-readme-stats.vercel.app/api/wakatime?username=mahi160&theme=calm&v=2&layout=compact" alt="mahi160" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=88e59008-5816-4f84-8871-f678c33d1ae3&theme=calm&v=2&layout=compact" alt="mahi160" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=88e59008-5816-4f84-8871-f678c33d1ae3" alt="mahi160" />
 </td>
 </table>
 </p>
@@ -22,7 +20,7 @@
 <p align="right">
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mahi160&theme=calm&layout=compact" alt="mahi160" />
 </p>
-<p align="left"> <a href="https://twitter.com/mahi160" target="blank"><img src="https://img.shields.io/twitter/follow/mahi160?logo=twitter&style=for-the-badge" alt="mahi160" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/mahi160" target="blank"><img src="https://img.shields.io/twitter/follow/mahi160?logo=twitter&style=for-the-badge" alt="mahi160" /></a> </p> -->
 
 <br/>
 
