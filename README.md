@@ -2,13 +2,15 @@
   <img src="https://komarev.com/ghpvc/?username=mahi160&label=Profile%20views&color=edae49&style=flat" alt="mahi160" />
   <img src="https://wakatime.com/badge/user/88e59008-5816-4f84-8871-f678c33d1ae3.svg" alt="mahi160" />
 </p> 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mahi160)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left" style="display:flex"> 
 <table>
 <td>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahi160&show_icons=true&locale=en&theme=calm" alt="mahi160" />
 </td>
 <td>
+ 
+  <img align="right" src=" https://github-readme-stats.vercel.app/api/wakatime?username=mahi160&theme=calm&v=2&layout=compact" alt="mahi160" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=88e59008-5816-4f84-8871-f678c33d1ae3&theme=calm&v=2&layout=compact" alt="mahi160" />
 </td>
 </table>
