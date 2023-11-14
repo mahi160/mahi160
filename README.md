@@ -27,6 +27,7 @@
 - 🏢 Working at **sMedia Ventures**
 - 🌱 I’m currently learning **Rust**, **SvelteKit**
 - 💬 Ask me about **Javascript, Angular**
+- 🐧 Hardcore Linux and FOSS user!
 - 📫 How to reach me **omarsifat288@gmail.com**
 - 🏠 Currently living in Dhaka, Bangladesh.
 - 🎓 Graduated from **BUET** as **EEE** major. But I am a computer science engineer by heart!
