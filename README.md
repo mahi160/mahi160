@@ -24,9 +24,9 @@
 
 <br/>
 
-- 🏢 Working at **sMedia Ventures**
-- 🌱 I’m currently learning **Rust**, **SvelteKit**
-- 💬 Ask me about **Javascript, Angular**
+- 🏢 Working at **QuestionPro**
+<!-- - 🌱 I’m currently learning **Go**, **SvelteKit** -->
+- 💬 Ask me about **Javascript, Angular, React**
 - 🐧 Hardcore Linux and FOSS user!
 - 📫 How to reach me **omarsifat288@gmail.com**
 - 🏠 Currently living in Dhaka, Bangladesh.
