@@ -3,8 +3,7 @@
 </h1>
 
 <p align="center">
-  [![Profile Views](https://komarev.com/ghpvc/?username=mahi160&label=Profile%20views&color=edae49&style=flat)](https://github.com/mahi160)
-  <img src="https://komarev.com/ghpvc/?username=mahi160&label=Profile+Views&color=40A4FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mahi160&label=Profile+Views&color=40A4FF&style=flat" alt="Profile Views" />
   <img src="https://wakatime.com/badge/user/88e59008-5816-4f84-8871-f678c33d1ae3.svg" alt="Wakatime Stats" />
 </p>
 
