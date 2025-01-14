@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahi160&label=Profile+Views&color=81A1C1&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mahi160&label=Profile+Views&color=81A1C1&style=flat" alt="Profile Views" />
   <img src="https://wakatime.com/badge/user/88e59008-5816-4f84-8871-f678c33d1ae3.svg" alt="Wakatime Stats" />
 </p>
 
@@ -48,17 +48,17 @@
 
 ### ⚙️ Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,vue,nestjs,bootstrap,tailwind,flutter,ionic&theme=nord" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,vue,nestjs,bootstrap,tailwind,flutter,ionic" alt="Frameworks & Libraries" />
 </p>
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,mariadb&theme=nord" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,mariadb" alt="Databases" />
 </p>
 
 ### 🛠️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,postman,figma,vscode&theme=nord" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,postman,figma,vscode" alt="Tools & Platforms" />
 </p>
 
 ---
