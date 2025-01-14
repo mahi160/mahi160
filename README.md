@@ -21,7 +21,7 @@
       </td>
     </tr>
   </table>
-  <img src="https://streak-stats.demolab.com?user=mahi160&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mahi160&theme=gruvbox" alt="GitHub Streak" />
 </div>
 
 ---
