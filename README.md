@@ -42,23 +42,18 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 ### 🖥️ Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,python,rust&theme=nord" alt="Languages" />
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,python,rust,go" alt="Languages" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,vue,nestjs,bootstrap,tailwind,flutter,ionic" alt="Frameworks & Libraries" />
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,mariadb" alt="Databases" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,svelte,tailwind,shadcn,reactNative" alt="Frameworks & Libraries" />
 </p>
 
 ### 🛠️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,postman,figma,vscode" alt="Tools & Platforms" />
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,figma,vscode,neovim,jira" alt="Tools & Platforms" />
 </p>
 
 ---
