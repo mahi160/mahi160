@@ -23,7 +23,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahi160&theme=nord&hide_border=true" alt="GitHub Streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahi160&theme=nord&hide_border=true" alt="GitHub Streak" /> -->
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=mahi160)](https://git.io/streak-stats)
 </div>
 
 ---
