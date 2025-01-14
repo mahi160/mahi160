@@ -7,6 +7,8 @@
   <img src="https://wakatime.com/badge/user/88e59008-5816-4f84-8871-f678c33d1ae3.svg" alt="Wakatime Stats" />
 </div>
 
+---
+
 <div align="center">
   <h2>📊 GitHub Magic</h2>
   <table>
@@ -19,61 +21,80 @@
       </td>
     </tr>
   </table>
-  
   <img src="https://streak-stats.demolab.com?user=mahi160&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" />
 </div>
 
+---
+
 <h2 align="center">🧙‍♂️ The Wizard Behind the Screen</h2>
 
-```rust
-struct Developer {
-    name: String,
-    role: String,
-    location: String,
-    os: String,
-    email: String,
-    fun_fact: String,
-}
+```ts
+type TechWizard = {
+  name: string;
+  title: string;
+  location: string;
+  currentStack: string[];
+  superPowers: string[];
+  funFacts: string[];
+};
 
-fn main() {
-    let sifat = Developer {
-        name: String::from("Sifat"),
-        role: String::from("Frontend Developer @ QuestionPro"),
-        location: String::from("Dhaka, Bangladesh"),
-        os: String::from("Arch Linux BTW 🐧"),
-        email: String::from("omarsifat288@gmail.com"),
-        fun_fact: String::from("EEE grad who fell in love with bits & bytes!"),
-    };
-}
-```
+const sifat: TechWizard = {
+  name: "Sifat",
+  title: "Frontend Sorcerer",
+  location: "Dhaka, Bangladesh 🌏",
+  currentStack: [
+    "JavaScript/TypeScript Enthusiast",
+    "React.js Architect",
+    "Angular Specialist",
+    "Svelte Explorer"
+  ],
+  superPowers: [
+    "⚡ Transforming Coffee into Code",
+    "🐧 Arch Linux Evangelism",
+    "🚀 Performance Optimization",
+    "🎨 Pixel-Perfect Design"
+  ],
+  funFacts: [
+    "🎓 EEE Graduate turned Code Artist",
+    "💼 Currently casting spells at QuestionPro",
+    "🌟 FOSS Advocate and Contributor",
+    "⌨️ Neovim is my magic wand",
+    "🏃‍♂️ When not coding: probably ricing my Arch setup"
+  ]
+};
 
-<h2 align="center">🛠️ Weapons of Choice</h2>
+// I use Arch BTW! 🐧
+``` 
 
-<h3>🌟 Daily Drivers</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,svelte" alt="Primary Skills" />
+---
+
+<h2 align="center">🛠️ Weapons of Choice</h2
+
+### 🖥️ Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,bash,python,rust,go" alt="Languages" />
 </p>
 
-<h3>🎨 Style Arsenal</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,css" alt="Styling Tools" />
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,svelte,tailwind,shadcn,reactNative" alt="Frameworks & Libraries" />
 </p>
 
-<h3>⚡ Power Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,neovim,docker,git" alt="Development Tools" />
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,arch,git,figma,vscode,neovim,jira" alt="Tools & Platforms" />
 </p>
+
+---
 
 <h2 align="center">🏆 Achievement Unlocked!</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mahi160&theme=catppuccin_mocha&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
 </p>
-
 <h2 align="center">📈 Contribution Garden</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahi160&theme=catppuccin-mocha&hide_border=true" alt="Contribution Graph" />
 </p>
-
 <h2 align="center">🌐 Connect with the Wizard</h2>
 <p align="center">
   <a href="https://twitter.com/mahi160" target="_blank">
@@ -86,9 +107,7 @@ fn main() {
     <img src="https://img.shields.io/badge/Email-89B4FA?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
   </a>
 </p>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" alt="Catppuccin Theme Footer" />
 </div>
-
 <!-- Easter Egg: Type 'sudo pacman -Syu happiness' in your terminal for instant joy! -->
