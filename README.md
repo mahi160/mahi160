@@ -13,10 +13,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mahi160&show_icons=true&locale=en&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mahi160&show_icons=true&locale=en&theme=calm&hide_border=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=mahi160&theme=radical&hide_border=true&layout=compact" alt="Wakatime Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=mahi160&theme=calm&hide_border=true&layout=compact" alt="Wakatime Stats" />
       </td>
     </tr>
   </table>
@@ -50,7 +50,7 @@
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahi160&theme=radical&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mahi160&theme=calm&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
 </p>
 
 ---
@@ -58,7 +58,7 @@
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahi160&theme=radical&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahi160&theme=calm&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -66,10 +66,7 @@
 <h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://twitter.com/mahi160" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/mahi160?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/salauddin-sifat" target="_blank">
+  <a href="https://linkedin.com/in/mahi160" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:omarsifat288@gmail.com" target="_blank">
