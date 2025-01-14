@@ -58,7 +58,7 @@ const sifat: TechWizard = {
     "🎓 EEE Graduate turned Code Artist",
     "💼 Currently casting spells at QuestionPro",
     "🌟 FOSS Advocate and Contributor",
-    "⌨️ Neovim is my magic wand",
+    "⌨️ Vscode is my magic wand",
     "🏃‍♂️ When not coding: probably ricing my Arch setup"
   ]
 };
@@ -93,14 +93,11 @@ const sifat: TechWizard = {
 </p>
 <h2 align="center">📈 Contribution Garden</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahi160&theme=catppuccin-mocha&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahi160&theme=nord&hide_border=true" alt="Contribution Graph" />
 </p>
 <h2 align="center">🌐 Connect with the Wizard</h2>
 <p align="center">
-  <a href="https://twitter.com/mahi160" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-89B4FA?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/salauddin-sifat" target="_blank">
+  <a href="https://linkedin.com/in/mahi160" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-89B4FA?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
   <a href="mailto:omarsifat288@gmail.com">
