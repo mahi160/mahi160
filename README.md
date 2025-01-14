@@ -43,7 +43,7 @@
 
 ### 🖥️ Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,python,rust,go" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,bash,python,rust,go" alt="Languages" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
@@ -53,7 +53,7 @@
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,figma,vscode,neovim,jira" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,arch,git,figma,vscode,neovim,jira" alt="Tools & Platforms" />
 </p>
 
 ---
