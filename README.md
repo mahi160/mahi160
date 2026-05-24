@@ -1,116 +1,162 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=4000&pause=500&color=B8BB26&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sifat+%F0%9F%91%8B;Frontend+Wizard+from+Bangladesh+%E2%9C%A8;BTW%2C+I+use+Arch+%F0%9F%90%A7;Turning+Coffee+into+Code+%E2%98%95" alt="Typing Animation" />
-</h1>
+````md id="ykq34p"
+<h1 align="center">Sifat</h1>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahi160&label=Profile+Views&color=B8BB26&style=flat" alt="Profile Views" />
-  <img src="https://wakatime.com/badge/user/88e59008-5816-4f84-8871-f678c33d1ae3.svg" alt="Wakatime Stats" />
-</div>
+<p align="center">
+  Frontend Engineer • TypeScript • React • Developer Tooling
+</p>
 
----
+<p align="center">
+  Building fast interfaces, clean architecture, and terminal-first workflows.
+</p>
 
-<div align="center">
-  <h2>📊 GitHub Magic</h2>
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mahi160&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=mahi160&theme=gruvbox&hide_border=true&layout=compact" alt="Wakatime Stats" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://streak-stats.demolab.com?user=mahi160&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=B8BB26&center=true&vCenter=true&width=600&lines=Frontend+Engineer;TypeScript+%2B+React;Neovim+%2B+tmux+Workflow;Linux+Power+User" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahi160&label=Profile+Views&color=B8BB26&style=flat" />
+  <img src="https://img.shields.io/github/followers/mahi160?style=flat&color=B8BB26" />
+</p>
 
 ---
 
-<h2 align="center">🧙‍♂️ The Wizard Behind the Screen</h2>
+## About
 
 ```ts
-type TechWizard = {
-  name: string;
-  title: string;
-  location: string;
-  currentStack: string[];
-  superPowers: string[];
-  funFacts: string[];
-};
+const sifat = {
+  location: "Dhaka, Bangladesh",
 
-const sifat: TechWizard = {
-  name: "Sifat",
-  title: "Frontend Sorcerer",
-  location: "Dhaka, Bangladesh 🌏",
-  currentStack: [
-    "JavaScript/TypeScript Enthusiast",
-    "React.js Architect",
-    "Angular Specialist",
-    "Svelte Explorer"
+  role: "Frontend Engineer",
+
+  focus: [
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Angular",
+    "Performance",
+    "Developer Tooling"
   ],
-  superPowers: [
-    "⚡ Transforming Coffee into Code",
-    "🐧 Arch Linux Evangelism",
-    "🚀 Performance Optimization",
-    "🎨 Pixel-Perfect Design"
+
+  tools: [
+    "Neovim",
+    "tmux",
+    "Linux",
+    "Docker",
+    "Git"
   ],
-  funFacts: [
-    "🎓 EEE Graduate turned Code Artist",
-    "💼 Currently casting spells at QuestionPro",
-    "🌟 FOSS Advocate and Contributor",
-    "⌨️ Vscode is my magic wand",
-    "🏃‍♂️ When not coding: probably ricing my Arch setup"
+
+  currentlyLearning: [
+    "Rust",
+    "Go",
+    "Systems Design"
   ]
 };
-// I use Arch BTW! 🐧
-```
+````
 
 ---
 
-<h2 align="center">🛠️ Weapons of Choice</h2>
+## Tech Stack
 
-### 🖥️ Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,bash,python,rust,go" alt="Languages" />
-</p>
-
-### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,angular,svelte,tailwind,shadcn,reactNative" alt="Frameworks & Libraries" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,arch,git,figma,vscode,neovim,jira" alt="Tools & Platforms" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,svelte,nodejs,tailwind,python,rust,go,docker,linux,neovim,git" />
 </p>
 
 ---
 
-<h2 align="center">🏆 Achievement Unlocked!</h2>
+## Featured Projects
+
+<!--
+### AI Coding Workflow
+
+Terminal-first AI development environment focused on speed, automation,
+and token-efficient coding workflows.
+
+Tech:
+- TypeScript
+- Node.js
+- tmux
+- Neovim
+- Claude / OpenAI APIs
+
+---
+
+### Frontend Architecture Starter
+
+Production-ready frontend architecture with scalable patterns,
+strict typing, clean state management, and DX-focused tooling.
+
+Tech:
+- React
+- Next.js
+- TypeScript
+- Tailwind
+- Zustand
+
+---
+
+### Developer Productivity Toolkit
+
+Collection of CLI tools, shell utilities, and workflow automation
+scripts for Linux and macOS development environments.
+
+Tech:
+- Bash
+- Go
+- Python
+- Docker
+
+---
+
+### Open Source Contributions
+
+Contributions to developer tooling, frontend ecosystems,
+and productivity-focused projects.
+-->
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahi160&theme=gruvbox&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=mahi160&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+  />
+
+<img
+ height="170"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahi160&layout=compact&theme=gruvbox&hide_border=true"
+/>
+
 </p>
 
-<h2 align="center">📈 Contribution Garden</h2>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahi160&theme=gruvbox&hide_border=true" alt="Contribution Graph" />
+  <img
+    src="https://streak-stats.demolab.com?user=mahi160&theme=gruvbox&hide_border=true"
+  />
 </p>
 
-<h2 align="center">🌐 Connect with the Wizard</h2>
+---
+
+## Activity
 
 <p align="center">
-  <a href="https://linkedin.com/in/mahi160" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-B8BB26?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mahi160&theme=gruvbox&hide_border=true"
+  />
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/mahi160">
+    <img src="https://img.shields.io/badge/LinkedIn-B8BB26?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
+
   <a href="mailto:omarsifat288@gmail.com">
-    <img src="https://img.shields.io/badge/Email-B8BB26?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-B8BB26?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" alt="Footer" />
-</div>
-
-<!-- Easter Egg: Type 'sudo pacman -Syu happiness' in your terminal for instant joy! -->
+```
