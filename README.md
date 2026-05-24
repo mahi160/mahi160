@@ -1,7 +1,7 @@
-<h1 align="center">Sifat</h1>
+<h1 align="center">Salauddin Omar Sifat</h1>
 
 <p align="center">
-  Frontend Engineer • TypeScript • React • Developer Tooling
+  Senior Software Engineer • TypeScript • React • Developer Tooling
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 const sifat = {
   location: "Dhaka, Bangladesh",
 
-  role: "Frontend Engineer",
+  role: "Senior Software Engineer",
 
   focus: [
     "TypeScript",
@@ -45,7 +45,6 @@ const sifat = {
   ],
 
   currentlyLearning: [
-    "Rust",
     "Go",
     "Systems Design"
   ]
