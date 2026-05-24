@@ -5,11 +5,11 @@
 ### Building systems, tools, and AI-driven workflows that actually ship.
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/mahi160">
+    <img src="https://komarev.com/ghpvc/?username=mahi160&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   </a>
   <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="followers" />
+    <img src="https://img.shields.io/github/followers/mahi160?label=Followers&style=social" alt="followers" />
   </a>
 </p>
 
