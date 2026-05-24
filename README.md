@@ -1,159 +1,177 @@
-<h1 align="center">Salauddin Omar Sifat</h1>
+<div align="center">
 
-<p align="center">
-  Senior Software Engineer • TypeScript • React • Developer Tooling
+# Salauddin Omar Sifat
+
+### Building systems, tools, and AI-driven workflows that actually ship.
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME?tab=followers">
+    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="followers" />
+  </a>
 </p>
 
-<p align="center">
-  Building fast interfaces, clean architecture, and terminal-first workflows.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=500&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Engineer;AI+Workflow+Builder;CLI+%2F+DevTools+Enjoyer;Systems+Over+Hype;Shipping+Over+Talking" alt="Typing SVG" />
+
+</div>
+
+---
+
+# About Me
+
+I build fast, practical, and scalable developer systems.
+
+Most people waste time obsessing over tools.
+I care about execution, leverage, automation, and shipping.
+
+Current focus:
+
+- AI-assisted engineering workflows
+- Developer tooling
+- CLI/TUI systems
+- Automation pipelines
+- High-performance coding environments
+- Open-source infrastructure
+- Productivity systems that remove friction
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,go,py,cpp,rust,bash" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=B8BB26&center=true&vCenter=true&width=600&lines=Frontend+Engineer;TypeScript+%2B+React;Neovim+%2B+tmux+Workflow;Linux+Power+User" />
+## Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahi160&label=Profile+Views&color=B8BB26&style=flat" />
-  <img src="https://img.shields.io/github/followers/mahi160?style=flat&color=B8BB26" />
+## Backend & Infra
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis,docker,linux" />
+</p>
+
+## Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=neovim,tmux,git,github" />
 </p>
 
 ---
 
-## About
+# Current Priorities
 
-```ts
-const sifat = {
-  location: "Dhaka, Bangladesh",
-
-  role: "Senior Software Engineer",
-
-  focus: [
-    "TypeScript",
-    "React",
-    "Next.js",
-    "Angular",
-    "Performance",
-    "Developer Tooling"
-  ],
-
-  tools: [
-    "Neovim",
-    "tmux",
-    "Linux",
-    "Docker",
-    "Git"
-  ],
-
-  currentlyLearning: [
-    "Go",
-    "Systems Design"
-  ]
-};
+```txt
+→ Building systems instead of toy projects
+→ Reducing development friction
+→ Increasing execution speed
+→ Leveraging AI without becoming dependent on it
+→ Writing maintainable code that survives scale
 ````
 
 ---
 
-## Tech Stack
+# Featured Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,svelte,nodejs,tailwind,python,rust,go,docker,linux,neovim,git" />
-</p>
+## ⚡ Project One
 
----
+Short one-line description explaining:
 
-## Featured Projects
+* the problem
+* the technical challenge
+* the impact
 
-<!--
-### AI Coding Workflow
-
-Terminal-first AI development environment focused on speed, automation,
-and token-efficient coding workflows.
-
-Tech:
-- TypeScript
-- Node.js
-- tmux
-- Neovim
-- Claude / OpenAI APIs
+```bash
+Tech: TypeScript • Go • Docker • Redis
+```
 
 ---
 
-### Frontend Architecture Starter
+## 🧠 Project Two
 
-Production-ready frontend architecture with scalable patterns,
-strict typing, clean state management, and DX-focused tooling.
+Short one-line description.
+Focus on outcomes, not buzzwords.
 
-Tech:
-- React
-- Next.js
-- TypeScript
-- Tailwind
-- Zustand
+```bash
+Tech: React • Node.js • PostgreSQL
+```
 
 ---
 
-### Developer Productivity Toolkit
+## 🛠 Project Three
 
-Collection of CLI tools, shell utilities, and workflow automation
-scripts for Linux and macOS development environments.
+Something practical and technically difficult.
 
-Tech:
-- Bash
-- Go
-- Python
-- Docker
+```bash
+Tech: Rust • CLI • Linux
+```
 
 ---
 
-### Open Source Contributions
+# GitHub Stats
 
-Contributions to developer tooling, frontend ecosystems,
-and productivity-focused projects.
--->
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
 
-## GitHub Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=mahi160&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
-  />
-
-<img
- height="170"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahi160&layout=compact&theme=gruvbox&hide_border=true"
-/>
-
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=mahi160&theme=gruvbox&hide_border=true"
-  />
-</p>
+</div>
 
 ---
 
-## Activity
+# Activity Graph
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mahi160&theme=gruvbox&hide_border=true"
-  />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" width="100%" />
+
+</div>
 
 ---
 
-## Connect
+# What I Value
 
-<p align="center">
+```txt
+• Clear thinking
+• Strong fundamentals
+• Fast iteration
+• Systems thinking
+• Ownership
+• Low-ego engineering
+• Deep work
+• Simplicity over noise
+```
+
+---
+
+# Contact
+
+<p>
+  <a href="https://github.com/mahi160">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
   <a href="https://linkedin.com/in/mahi160">
-    <img src="https://img.shields.io/badge/LinkedIn-B8BB26?style=for-the-badge&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="mailto:omarsifat288@gmail.com">
-    <img src="https://img.shields.io/badge/Email-B8BB26?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+
+<div align="center">
+
+### Build useful things. Ignore noise.
+
+</div>
