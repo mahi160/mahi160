@@ -1,4 +1,3 @@
-````md id="ykq34p"
 <h1 align="center">Sifat</h1>
 
 <p align="center">
@@ -159,4 +158,3 @@ and productivity-focused projects.
     <img src="https://img.shields.io/badge/Email-B8BB26?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </p>
-```
